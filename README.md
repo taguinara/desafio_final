@@ -2,7 +2,7 @@
 
 O desafio foi criar um site que retorne as informações da Tmdb.
 
-## Recursos utilizados
+## Recursos utilizados ↪️
 
 * The Movie Database (TMDb);
 * MySQL;
@@ -10,6 +10,7 @@ O desafio foi criar um site que retorne as informações da Tmdb.
 * Uso da biblioteca Axios; e
 * Status code.
 
-Também foram utilizados:
+## Também foram utilizados: ↪️
+
 * Postman;
 * MySQL Workbench.
